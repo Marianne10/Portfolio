@@ -1,5 +1,5 @@
 <br id="inicio">
-<h1> :sparkles: Portfólio Pessoal </h1>
+<h1>  Portfólio Pessoal </h1>
 
 <h2> 📖 Sobre o projeto: </h2>
 <h4> Trabalho proposto na disciplina Engenharia de Software do 2° semestre do curso Desenvolvimento de Software Multiplataforma, com o objetivo de criar um portfólio pessoal utilizando os conhecimentos adiquiridos nas disciplinas do curso de Desenvolvimento de . </h4>
