@@ -2,8 +2,8 @@
 <h1> :sparkles: Portfólio Pessoal </h1>
 
 <h2> 📖 Sobre o projeto: </h2>
-<h4> Trabalho proposto na disciplina Engenharia de Software do 2° semestre do curso Desenvolvimento de Software Multiplataforma, com o objetivo de criar um portfólio pessoal utilizando os conhecimentos adiquiridos na disciplina Design Digital. </h4>
-<h3> Apesar da entrega do trabalho, o portfólio continuará sendo atualizado ao decorrer do curso</h4>
+<h4> Trabalho proposto na disciplina Engenharia de Software do 2° semestre do curso Desenvolvimento de Software Multiplataforma, com o objetivo de criar um portfólio pessoal utilizando os conhecimentos adiquiridos nas disciplinas do curso de Desenvolvimento de . </h4>
+<h3> Apesar da entrega do trabalho, o portfólio continuará sendo atualizado ao decorrer do curso de Desenvolvimento de Software Multiplataforma</h4>
 
 <h2> 📌 Status do projeto: Concluído ✔️</h2>
 <table>
