@@ -55,20 +55,7 @@
     
 <h4> 7. Após utilizar a aplicação, volte no terminal, aperte crtl + c e digite "s" para encerrar a aplicação. </h4>
  
- 
-<!-- <h3> :card_index_dividers: Estrutura do repositório: </h3>
- <p> 📁: doc: Pasta contendo o wireframe do projeto. </p>
- <p> :open_file_folder: src: Pasta contendo as pastas "static", "templates" e o arquivo "app.py". </p>
- <p>  L 📁 templates: Pasta contendo todos os arquivos .html do projeto. </p>
- <p>  L :open_file_folder: static: Pasta contendo a pasta "imagens", os arquivos "estilo.css" e "normalize.css". </p>
- <p>  - - L 📁 imagens: Pasta contendo as imagens utilizadas no projeto. </p>
- <p>  | :spiral_notepad: .gitignore: Arquivo para ignorar os ambientes virtuais durante o envio ao GitHub. <p>
- <p>  | :spiral_notepad: README.MD: Documentação que você está lendo neste momento. </p>
-  <p>  | :spiral_notepad: vercel.json: Arquivo para implementar o site na plataforma Vercel. </p>
- <p>  | 🗒️ requirements.txt: Documento de texto com os requerimentos para rodar o sistema. </p>
- 
- <p> </p> -->
- 
+
 <div>
   <h5> Produzido por: Marianne Valerio Nunes</h5>
 </div>
